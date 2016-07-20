@@ -1,0 +1,11 @@
+vim-worque - TABLE OF CONTENTS
+==============================================================================
+
+* Commands:
+
+1. Using :TD command:
+Jump to today note
+
+2. Using :YTD command:
+Jump to the note on yesterday (or Friday if today is Monday)
+
